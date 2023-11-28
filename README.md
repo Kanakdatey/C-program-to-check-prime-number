@@ -1,1 +1,0 @@
-# C-program-to-check-prime-number
